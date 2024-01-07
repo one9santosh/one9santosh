@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santosh Mitra</h1>
-<h3 align="center">Student at LPU, Punjab🌟.</h3>
+<h3 align="center">Student at Lovely Professional University.</h3>
 
 <br>
 
